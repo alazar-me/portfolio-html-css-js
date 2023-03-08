@@ -123,6 +123,7 @@ header nav .branding {
 
 .button:before {
   content: "";
+  
   background: linear-gradient(
     45deg,
     #ff0000,
