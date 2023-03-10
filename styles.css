@@ -270,9 +270,9 @@ header nav .branding {
     max-width: 100%;
     padding-left: 20px;
     padding-right: 20px;
-    padding-top: 3px;
-    text-decoration: none;
-    text-transform: uppercase;
+    padding-top: 3px;   
+    text-decoration: none;    
+    text-transform: uppercase;      
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
