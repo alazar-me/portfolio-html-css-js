@@ -470,7 +470,7 @@ margin-left: -1rem;
   left: 75%;
 }
 
-.skills .card-wrapper .card .img8{
+.skills .card-wrapper .card .img8{   
   position: absolute;
   top: 7rem;
   left: 25%;
@@ -512,7 +512,7 @@ text-decoration: none;
 .project .slider-dot .dots {
   list-style-type: none;
   display: flex !important;
-  justify-content: center;
+  justify-content: center;  
 }
 .project .slider-dot button{
   font-size: 0;
@@ -613,7 +613,7 @@ footer .footer-text{
 }
           /* --------------------small screen nav bar-------------------------*/
 .site-main-wrapper{
-  position: relative;
+  position: relative;   
 }
 .site-main-wrapper .hamberger {
   position: absolute;
@@ -878,7 +878,7 @@ footer .footer-text{
     grid-template-columns: 1fr;
     gap: 0;
   }
-  .contact .input-holder{
+  .contact .input-holder{   
     margin-left: -5rem;
     width: fit-content;
   }
